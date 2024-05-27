@@ -11,11 +11,10 @@ func main() {
 	names[3] = "hiro"
 
 	fmt.Println(names)
-	fmt.Println("length is: ",len(names))
+	fmt.Println("length is: ", len(names))
 
-
-	var shows=[5]string{"oregairu","vinland saga","AOT","naruto"}
+	var shows = [5]string{"oregairu", "vinland saga", "AOT", "naruto"}
 	fmt.Println(shows)
-	fmt.Println("lenght is: ",len(shows))
+	fmt.Println("lenght is: ", len(shows))
 
 }
